@@ -1,0 +1,37 @@
+body{
+  margin-top: 90px;
+  background-color: rgb(247, 247, 247);
+}
+
+.card-body{
+  padding: 10px;
+}
+
+h5{
+  font-weight: bold;
+  font-size: 16px;
+}
+
+p{
+  font-size: 11px;
+}
+
+footer{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(95, 95, 95);
+  color: #fff;
+  font-size: 11px;
+}
+
+li{
+  line-height: 18px;
+  list-style: none;
+  font-weight: lighter;
+}
+
+footer p{
+  font-size: 14px;
+  margin: 0 auto;
+  line-height: 45px;
+}

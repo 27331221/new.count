@@ -1,0 +1,20 @@
+body {
+  background-color: #e4e4e4;
+}
+
+section {
+  text-align: center;
+}
+
+.text {
+  display: inline-block;
+}
+
+#name {
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+}
+/*# sourceMappingURL=style.css.map */
